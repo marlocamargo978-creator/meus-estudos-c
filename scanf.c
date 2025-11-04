@@ -5,5 +5,6 @@ int main(){
     printf("Digite um numero: ");
     scanf("%d" , &num);
     printf("Voce digitou: %d\n", num);
+    
     return 0;
 }

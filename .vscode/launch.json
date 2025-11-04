@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+
+
+        {
+            "type": "delegua",
+            "request": "launch",
+            "name": "Executar Visualg no Terminal",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        }
+    ]
+}
