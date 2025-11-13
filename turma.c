@@ -35,7 +35,7 @@ int main(){
             limpar_tela();
             printf("\t--LISTA DE ALUNOS--\n\n");
         for(i = 0; i < 4; i ++){
-            printf("Aluno:%s \tmédia: %.2f\n\n", nomes[i], medias[i]);
+            printf("Aluno:%s \tMédia: %.2f\n\n", nomes[i], medias[i]);
         }
         printf("\n\t--FIM DO PROGRAMA--\n\n");  
 
