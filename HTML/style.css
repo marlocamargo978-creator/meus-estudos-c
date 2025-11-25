@@ -1,0 +1,27 @@
+body{
+    background-color: #006437;
+    color: white;
+    font-family: arial, sans-serif; 
+}
+h1{
+    text-align: center;
+    color: red
+}
+p{
+    text-align: center;
+    font-size: 18px;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 200px;
+    border-radius: 20px;
+}
+a{
+    color: yellow;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover{
+    color: white;
+}
